@@ -1,6 +1,6 @@
 ### Hello everyone 🦦
 
-#### I'm a Software Engineer based on the Dominican Republic.
+#### I'm a Software Engineer based on the Dominican Republic 🇩🇴
 
 ##### NOW
 
