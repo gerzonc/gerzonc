@@ -18,4 +18,4 @@
 - 📖 `Currently reading` Coding Art: The Four Steps to Creative Programming with the Processing Language
 - 💬 `Ping me about` **react native**, **ui/ux design**, **mental health**, **cats**, **3d modeling**, **video editing**, **animation**
 - 📫 `Reach me at` [gerzonc@icloud.com](mailto:gerzonc@icloud.com?subject=Let%27s+talk)
-- ⚡️ `Fun fact:` I like grabbing phrases/words from internet videos, series, movies, etc. and repeating them on each situation is feasable its usage
+- ⚡️ `Fun fact:` I like grabbing phrases/words from internet videos, series, movies, etc. and repeating them on each situation is feasible its usage
