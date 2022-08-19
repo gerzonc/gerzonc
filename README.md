@@ -5,8 +5,8 @@
 ##### NOW
 
 - ✨ Working on amazing apps for 2 clients
-- 💻 Working on a personal project every Saturday
-- 🎹 Learning piano again every Sunday
+- 💻 Working on a personal project
+- 🎹 Learning piano (again)
 
 ##### BIO
 
