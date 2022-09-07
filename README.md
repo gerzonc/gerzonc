@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Working on amazing apps for 2 clients
+- ✨ Working on amazing apps as freelancer
 - 💻 Working on a personal project
 - 🎹 Learning piano (again)
 
