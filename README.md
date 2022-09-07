@@ -18,4 +18,4 @@
 - 📖 `Currently reading` Refactoring UI
 - 💬 `Ping me about` **react native**, **ui/ux design**, **mental health**, **cats**, **3d modeling**, **video editing**, **animation**
 - 📫 `Reach me at` [gerzonc@icloud.com](mailto:gerzonc@icloud.com?subject=Let%27s%20talk)
-- ⚡️ `Fun fact:` I like grabbing phrases/words from internet videos, series, movies, etc. and repeating them on each situation is feasible its usage
+- ⚡️ `Something funny about me is that` I like grabbing phrases/words from internet videos, series, movies, etc. and repeating them on each situation is feasible its usage
