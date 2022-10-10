@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Working as SDE at Newfold Digital
+- ✨ Working as SDE
 - 💻 Working on a personal project
 - 🇫🇷 Learning french
 
