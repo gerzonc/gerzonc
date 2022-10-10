@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Working as SDE
+- ✨ Started a new job!
 - 💻 Working on a personal project
 - 🇫🇷 Learning french
 
