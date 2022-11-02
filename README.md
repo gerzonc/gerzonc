@@ -4,8 +4,7 @@
 
 ##### NOW
 
-- ✨ Started a new job!
-- 💻 Working on a personal project
+- 💻 Building 3 new apps
 - 🇫🇷 Learning french
 
 ##### BIO
