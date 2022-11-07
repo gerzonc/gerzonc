@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🏢 `I'm currently working as` Software Engineer
-- ⚙️ `I use daily` `.js`, `.ts`, `.tsx`, `.json`, `.svg`, `.kt`, `.swift`, `.xd`, `.obj`
+- ⚙️ `I use daily` `.js`, `.ts`, `.tsx`, `.json`, `.svg`
 - 🌍 `I'm mostly active within` the [**React Native Community**](https://twitter.com/i/communities/1509407040095068166) and the [**Expo Developers Community**](https://discord.gg/m7mMbsX6)!
 - 🚧 `Creating` a fancy UI portfolio 
 - 🌱 `Learning all about` [**React Native Skia**](https://shopify.github.io/react-native-skia/), studying every Wednesday about **Data Structures and Algorithms** and solving programming problems every weekday!
