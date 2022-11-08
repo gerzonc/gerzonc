@@ -15,6 +15,6 @@
 - 🚧 `Creating` a fancy UI portfolio 
 - 🌱 `Learning all about` [**React Native Skia**](https://shopify.github.io/react-native-skia/), studying every Wednesday about **Data Structures and Algorithms** and solving programming problems every weekday!
 - 📖 `Currently reading` Clean Architecture
-- 💬 `Ping me about` **react native**, **ui/ux design**, **chess**, **dota 2**, **3d modeling**, **video editing**, **animation**
+- 💬 `Ping me about` **react native**, **ui/ux design**, **chess**, **dota 2**, **animation**
 - 📫 `Reach me at` [gerzonc@icloud.com](mailto:gerzonc@icloud.com?subject=Let%27s%20talk)
 - ⚡️ `Something funny about me is that` I like grabbing phrases/words from internet videos, series, movies, etc. and repeating them on each situation is feasible its usage
