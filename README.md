@@ -15,6 +15,6 @@
 - 🚧 `Creating:` a fancy UI portfolio 
 - 🌱 `Learning all about:` [**React Native Skia**](https://shopify.github.io/react-native-skia/)
 - 📖 `Reading right now::` Clean Architecture
-- 💬 `Ping me about:` **react native**, **ux design**, **chess**, **dota 2**, **animation**, **food* and **interior design**
+- 💬 `Ping me about:` **react native**, **ux design**, **chess**, **dota 2**, **animation**, **food** and **interior design**
 - 📫 `Reach me at:` [gerzonc@icloud.com](mailto:gerzonc@icloud.com?subject=Let%27s%20talk)
 - ⚡️ `Fun fact about me:` I love talking nonsense 
